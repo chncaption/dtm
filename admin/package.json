@@ -10,7 +10,7 @@
     "lint:fix": "eslint --ext .tsx,.ts,vue src/ --fix"
   },
   "dependencies": {
-    "ant-design-vue": "^3.1.1",
+    "ant-design-vue": "^3.2.20",
     "vue": "^3.2.25",
     "vue-demi": "^0.13.11",
     "vue-request": "^1.2.4"
